@@ -43,5 +43,6 @@ If I had more time, I would improve the project by:
   The Finch’s LED could display a different color every time it draws a new line segment. For example: red at point 1, green at point 2, blue at point 3, and so on. This would make the drawing more visually interesting.
 
 ## Video or images of your robot in action (embedded or linked)
-https://youtube.com/shorts/Oj8m5PFu4Jg?feature=share
+Link to Video: https://youtube.com/shorts/Oj8m5PFu4Jg?feature=share
+
 ![alt text](image.png)
